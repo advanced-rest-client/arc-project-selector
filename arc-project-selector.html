@@ -48,7 +48,7 @@ Custom property | Description | Default
       @apply --arc-project-selector;
     }
     </style>
-    <paper-combobox role="combobox" label="Select or create a project" required auto-validate invalid="{{invalid}}" value="{{projectName}}" source="[[_computeAutocomplete(projects)]]"></paper-combobox>
+    <paper-combobox role="combobox" label="Select or create a project" required="[[required]]" auto-validate="[[autoValidate]]" invalid="{{invalid}}" value="{{projectName}}" source="[[_computeAutocomplete(projects)]]"></paper-combobox>
   </template>
   <script>
   Polymer({

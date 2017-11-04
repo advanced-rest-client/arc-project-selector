@@ -1,3 +1,13 @@
+<a name="0.1.4"></a>
+## [0.1.4](https://github.com/advanced-rest-client/arc-project-selector/compare/0.1.3...0.1.4) (2017-11-04)
+
+
+### Fix
+
+* Adding data binding for required and auto-validate ([470e00bef1dd53917161ac39a9ddb6f9533f36ee](https://github.com/advanced-rest-client/arc-project-selector/commit/470e00bef1dd53917161ac39a9ddb6f9533f36ee))
+
+
+
 <a name="0.1.3"></a>
 ## [0.1.3](https://github.com/advanced-rest-client/arc-project-selector/compare/0.1.2...0.1.3) (2017-11-04)
 
